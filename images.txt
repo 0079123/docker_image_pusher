@@ -29,8 +29,7 @@ node
 zookeeper
 postgres
 memcached
-openjdk:1.8
-openjdk:17
+openjdk
 ubuntu
 httpd
 rabbitmq
