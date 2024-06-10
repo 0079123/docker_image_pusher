@@ -44,7 +44,6 @@ maven
 nextcloud
 wordpress
 archlinux
-swift
 consul
 influxdb
 centos
