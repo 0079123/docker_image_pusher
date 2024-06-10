@@ -52,5 +52,4 @@ xiaoyaliu/glue:latest
 haroldli/xiaoya-tvbox:latest
 xiaoyaliu/alist:latest
 xiaoyaliu/emby:latest
-xiaoyaliu/jellyfin:latest
 xiaoyaliu/tfm:latest
