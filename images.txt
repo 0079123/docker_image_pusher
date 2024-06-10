@@ -48,7 +48,7 @@ influxdb:latest
 centos:latest
 tomcat:latest
 bash:latest
-jenkins:latest
+jenkins/jenkins:lts-jdk17
 gradle:latest
 flink:latest
 groovy:latest
