@@ -59,3 +59,9 @@ mono
 whyour/qinglong
 odoo
 rockylinux
+xiaoyaliu/glue
+haroldli/xiaoya-tvbox
+xiaoyaliu/alist
+xiaoyaliu/emby
+xiaoyaliu/jellyfin
+xiaoyaliu/tfm
