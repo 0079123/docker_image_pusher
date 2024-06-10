@@ -44,7 +44,6 @@ maven:latest
 nextcloud:latest
 wordpress:latest
 archlinux:latest
-consul:latest
 influxdb:latest
 centos:latest
 tomcat:latest
