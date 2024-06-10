@@ -48,8 +48,6 @@ flink:latest
 groovy:latest
 mono:latest
 whyour/qinglong:latest
-odoo:latest
-rockylinux:latest
 xiaoyaliu/glue:latest
 haroldli/xiaoya-tvbox:latest
 xiaoyaliu/alist:latest
